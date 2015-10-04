@@ -1,0 +1,11 @@
+﻿"Git, czyli jak efektywnie zarządzać kodem" - sekcja CNI Open Source
+
+Zapraszamy na pierwsze spotkanie w Gitem!
+W czasie zajęć zostaną omówione:
+- sensowność stosowania systemu kontroli wersji,
+- podstawowe komendy Gita, wraz z ich dokładnym opisem,
+- sposób migracji już istniejących projektów do repozytorium Gita
+- bardziej zaawansowane zastosowania Gita ułatwiające pracę w grupie
+
+WFiIS, parter, sala A104
+czwartek, 15. stycznia, od 18:55
